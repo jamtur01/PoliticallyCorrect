@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "Politically Correct",
+	"version": "1.0",
+	"description": "Replaces the phase [ 'politically correct', 'political correctness', 'political correctness gone mad' ] with 'treating people with respect'.",
+	"content_scripts":
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	]
+}
+
