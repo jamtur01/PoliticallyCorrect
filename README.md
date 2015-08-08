@@ -15,3 +15,7 @@ In Chrome, choose Window > Extensions or navigate to
 `chrome://extensions/`.  Drag `PoliticallyCorrect.crx` into the page that
 appears.
 
+## Homage
+
+Owes a lot (read most of ...) to the [Cloud-to-Butt plug-in](https://github.com/panicsteve/cloud-to-butt/).
+
